@@ -1,5 +1,5 @@
-<!-- 1. Hello World -> Write a PHP script that outputs "Welcome to Web Technology II" using the
-echo construct.  -->
+<!-- 21. Basic ArithmeƟc -> Write a PHP script that calculates: (25 + 15) * 4 - 30 / 2. Display the
+result.  -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -8,6 +8,8 @@ echo construct.  -->
     <title>Document</title>
 </head>
 <body>
-    <?php echo "Welcome to web technology" ?>
+    <?php
+        echo (25 + 15) * 4 - 30 / 2 ;
+    ?>
 </body>
 </html>

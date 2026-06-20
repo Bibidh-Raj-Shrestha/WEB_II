@@ -1,3 +1,5 @@
+<!-- 3. Print vs Echo -> Write a PHP script that demonstrates both echo and print by displaying
+your name and student ID -->
 <!DOCTYPE html>
 <html lang="en">
 <head>

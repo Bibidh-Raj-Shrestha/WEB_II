@@ -1,3 +1,6 @@
+<!-- 2. MulƟple Echo Parameters -> Write a PHP script that uses echo with mulƟple parameters
+(comma-separated) to display: "PHP" "Programming" "is" "Fun" 
+-->
 <!DOCTYPE html>
 <html lang="en">
 <head>

@@ -1,5 +1,5 @@
-<!-- 1. Hello World -> Write a PHP script that outputs "Welcome to Web Technology II" using the
-echo construct.  -->
+<!-- 17. const Keyword -> Define a constant using the const keyword for COLLEGE_NAME and
+display it.  -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -8,6 +8,11 @@ echo construct.  -->
     <title>Document</title>
 </head>
 <body>
-    <?php echo "Welcome to web technology" ?>
+    <?php
+
+    const COLLEGE_NAME = "HDC";
+    echo COLLEGE_NAME;
+
+    ?>
 </body>
 </html>

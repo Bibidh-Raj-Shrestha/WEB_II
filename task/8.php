@@ -1,3 +1,6 @@
+<!-- 8. Variable Variable ($$) -> Create a variable cityName = "Kathmandu", then use a variable
+to create a new variable named cityName="Kathmandu", then use a variable variable to
+create a new variable named Kathmandu with the value "Capital City". Display the result.  -->
 <!DOCTYPE html>
 <html lang="en">
 <head>

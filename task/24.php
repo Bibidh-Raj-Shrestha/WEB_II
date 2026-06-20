@@ -1,6 +1,5 @@
-<!-- 5. Using Print in Expression -> Write a PHP script that uses the print construct inside an
-expression and displays the return value (which is 1). 
--->
+<!-- 24. Temperature Conversion -> Convert Celsius to Fahrenheit using the formula: F = (C * 9/5)
++ 32. Test with 37°C. -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -10,8 +9,10 @@ expression and displays the return value (which is 1).
 </head>
 <body>
     <?php
-        $a = print "Hello world!";
-        echo $a;
+        $celsius = 37;
+        $f = ($celsius * (9/5)) + 32;
+
+        echo $f;
     ?>
 </body>
 </html>

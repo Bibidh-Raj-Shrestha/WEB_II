@@ -1,5 +1,5 @@
-<!-- 5. Using Print in Expression -> Write a PHP script that uses the print construct inside an
-expression and displays the return value (which is 1). 
+<!-- 26. BMI Calculator -> Calculate BMI using: weight (kg) / (height in meters)². Use weight=70,
+height=1.75. 
 -->
 <!DOCTYPE html>
 <html lang="en">
@@ -10,8 +10,10 @@ expression and displays the return value (which is 1).
 </head>
 <body>
     <?php
-        $a = print "Hello world!";
-        echo $a;
+        $weight = 70;
+        $height = 1.75;
+        $bmi = $weight / pow($height,2);
+        echo $bmi 
     ?>
 </body>
 </html>

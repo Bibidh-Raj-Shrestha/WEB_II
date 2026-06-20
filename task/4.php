@@ -1,3 +1,6 @@
+<!-- 4. HTML IntegraƟon -> Write a PHP script that outputs HTML content with PHP, creaƟng a
+simple webpage with a heading and a paragraph. 
+-->
 <!DOCTYPE html>
 <html lang="en">
 <head>

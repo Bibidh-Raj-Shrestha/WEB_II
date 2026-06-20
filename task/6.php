@@ -1,3 +1,6 @@
+<!-- 6. Variable DeclaraƟon -> Declare variables for your name, age, and height, then display them
+using echo. 
+-->
 <!DOCTYPE html>
 <html lang="en">
 <head>
